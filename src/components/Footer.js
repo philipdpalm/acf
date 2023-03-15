@@ -34,7 +34,7 @@ const Footer = () => {
 				<p className="pb-1 text-lg font-medium">Contact</p>
 				<ul>
 					<li>
-						<a rel="noopener noreferrer" href="#" className="hover:dark:text-violet-400">Email: info@ac-fl.com</a>
+						<a rel="noopener noreferrer" href="#" className="hover:dark:text-violet-400">Email: info@acf-property.com</a>
 					</li>
                     <li>
 						<a rel="noopener noreferrer" href="#" className="hover:dark:text-violet-400">Company number: 07261691</a>
